@@ -1,0 +1,23 @@
+.heading{
+    font-size: 21.55px;
+    width: 100%;
+    box-shadow:5px 5px 5px black ;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15.55px;
+    color: blanchedalmond;
+}
+
+.copy_right_footer{
+   font-size: 20px;
+   color: blue;
+   background-color: gray;
+   width: 100%;
+   box-shadow: 5px 5px 5px black ;
+   bottom:0;
+   position: fixed;
+   text-align: center;
+   line-height: 3;
+}
